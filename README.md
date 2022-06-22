@@ -4,7 +4,8 @@
 ### Olá! Bem vindos ao meu Github! 👋
 
 Meu nome é Eliane, estudante e futura Dev Fullstack. Apaixonada por tecnologia e entusiasta do aprendizado constante.<br>Amo minha família, música boa, shows de rock, viajar, praia, cachorros, drinks e comida boa, claro! 
-<br>Aqui você encontra alguns projetos desenvolvidos por mim e algumas contribuições.
+<br> No momento estou imersa no aprendizado para futura transição de carreira.
+<br>Aqui você encontra alguns projetos desenvolvidos por mim e alguns exercícios para fixação das linguagens as quais estou estudando.
 
 ### :mortar_board: Graduação:
 Bacharel em Administração de empresas, pós graduada em Administração pública, Gestão ambiental, Gestão estratégica e Marketing.
