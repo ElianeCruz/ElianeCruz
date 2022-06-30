@@ -3,7 +3,7 @@
 
 ### Olá! Bem vindos ao meu Github! 👋
 
-Meu nome é Eliane, estudante e futura Dev Fullstack. Apaixonada por tecnologia e entusiasta do aprendizado constante.<br>Amo minha família, música boa, shows de rock, viajar, praia, cachorros, drinks e comida boa, claro! 
+Meu nome é Eliane, futura desenvolvedor de software. Apaixonada por tecnologia e entusiasta do aprendizado constante.<br>Amo minha família, música boa, shows de rock, viajar, praia, cachorros, drinks e comida boa, claro! 
 <br> No momento estou imersa no aprendizado para futura transição de carreira.
 <br>Aqui você encontra alguns projetos desenvolvidos por mim e alguns exercícios para fixação das linguagens as quais estou estudando.
 
